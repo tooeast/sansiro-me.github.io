@@ -23,6 +23,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+```
+function load() {
+  console.log('OK!');
+}
+```
+
 [Link](url) and ![Image](src)
 ```
 
