@@ -1,19 +1,11 @@
 {
   "list": {
-    "first-test": {
-      "title": "测试文章",
-      "abstract": "这是一个测试的地方，我就是写一些乱七八糟的东西",
+    "vue-toast": {
+      "title": "基于Vue的弹框插件",
+      "abstract": "基于Vue开发的一个弹框插件，很简单的使用。",
       "poster": "/default/img4.png",
-      "date": "2019-09-16 16:20:21",
-      "filename": "first-test",
-      "author": "sansiro"
-    },
-    "second-test": {
-      "title": "测试文章222",
-      "abstract": "这是一个测试的地方，我就是写一些乱七八糟的东西",
-      "poster": "/default/img4.png",
-      "date": "2019-09-16 16:20:21",
-      "filename": "second-test",
+      "date": "2018-06-12 15:24:09",
+      "filename": "vue-toast",
       "author": "sansiro"
     }
   }
