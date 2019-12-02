@@ -3,7 +3,7 @@
     "promise-multitask": {
       "title": "使用promise控制并发数量",
       "abstract": "使用promise巧妙的控制并发数量，很有意思的代码",
-      "poster": "/default/img4.png",
+      "poster": "/image/promise.png",
       "date": "2018-08-19 10:21:41",
       "filename": "promise-multitask",
       "author": "sansiro"
@@ -11,7 +11,7 @@
     "vue-toast": {
       "title": "基于Vue的弹框插件",
       "abstract": "基于Vue开发的一个弹框插件，很简单的使用。",
-      "poster": "/default/img4.png",
+      "poster": "/image/vue.jpg",
       "date": "2018-06-12 15:24:09",
       "filename": "vue-toast",
       "author": "sansiro"
