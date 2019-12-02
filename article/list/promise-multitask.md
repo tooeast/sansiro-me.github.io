@@ -74,3 +74,5 @@ multiTask(urls, loadImg, 3).then(() => {
 ```
 
 可以看到，代码主要是维护一个定长的数组来实现控制，数组的长度取决于规定的最大并发数。
+
+![res](/image/promise-res.png)
