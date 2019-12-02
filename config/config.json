@@ -4,5 +4,17 @@
   "username": "SANSIRO",
   "title": "Welcome to sansiro.me",
   "email": "sansiro@sansiro.me",
-  "pageSize": 3
+  "pageSize": 3,
+  "links": [
+    {
+      "icon": "photo",
+      "name": "Works",
+      "link": "http://works.521plus.com"
+    },
+    {
+      "icon": "github",
+      "name": "Github",
+      "link": "https://github.com/sansiro-me"
+    }
+  ]
 }
