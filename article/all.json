@@ -3,7 +3,7 @@
     "promise-multitask": {
       "title": "使用promise控制并发数量",
       "abstract": "使用promise巧妙的控制并发数量，很有意思的代码",
-      "poster": "/image/promise.jpg",
+      "poster": "/image/promise.png",
       "date": "2018-08-19 10:21:41",
       "filename": "promise-multitask",
       "author": "sansiro"
