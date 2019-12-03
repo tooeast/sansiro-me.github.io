@@ -1,5 +1,13 @@
 {
   "list": {
+    "learn-regexp-two": {
+      "title": "JS正则表达式学习二",
+      "abstract": "读到了老姚的正则表达式文章，对于正则表达式有了一个新的学习",
+      "poster": "/image/regexp.jpg",
+      "date": "2018-11-23 18:11:40",
+      "filename": "learn-regexp-two",
+      "author": "sansiro"
+    },
      "learn-regexp-one": {
       "title": "JS正则表达式学习一",
       "abstract": "读到了老姚的正则表达式文章，对于正则表达式有了一个新的学习",
