@@ -1,5 +1,13 @@
 {
   "list": {
+     "learn-regexp-one": {
+      "title": "JS正则表达式学习一",
+      "abstract": "读到了老姚的正则表达式文章，对于正则表达式有了一个新的学习",
+      "poster": "/image/promise.png",
+      "date": "2018-11-21 11:52:41",
+      "filename": "learn-regexp-one",
+      "author": "sansiro"
+    },
     "promise-multitask": {
       "title": "使用promise控制并发数量",
       "abstract": "使用promise巧妙的控制并发数量，很有意思的代码",
