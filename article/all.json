@@ -1,8 +1,24 @@
 {
   "list": {
+    "learn-regexp-four": {
+      "title": "JS正则表达式学习四",
+      "abstract": "正则表达式中神奇的回溯现象",
+      "poster": "/image/regexp.jpg",
+      "date": "2018-11-28 21:24:39",
+      "filename": "learn-regexp-four",
+      "author": "sansiro"
+    },
+    "learn-regexp-three": {
+      "title": "JS正则表达式学习三",
+      "abstract": "继续之前的内容，学习正则中括号的使用！",
+      "poster": "/image/regexp.jpg",
+      "date": "2018-11-26 16:45:11",
+      "filename": "learn-regexp-three",
+      "author": "sansiro"
+    },
     "learn-regexp-two": {
       "title": "JS正则表达式学习二",
-      "abstract": "读到了老姚的正则表达式文章，对于正则表达式有了一个新的学习",
+      "abstract": "这次学习位置匹配的内容，加油！",
       "poster": "/image/regexp.jpg",
       "date": "2018-11-23 18:11:40",
       "filename": "learn-regexp-two",
