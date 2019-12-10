@@ -8,6 +8,14 @@
       "filename": "throttle-and-debounce",
       "author": "sansiro"
     },
+    "2018-to-2019": {
+      "title": "2018再见，2019你好",
+      "abstract": "又到了年终总结的时候...",
+      "poster": "/image/2019-2019.jpeg",
+      "date": "2018-12-28 15:26:09",
+      "filename": "2018-to-2019",
+      "author": "sansiro"
+    },
     "learn-regexp-four": {
       "title": "JS正则表达式学习四",
       "abstract": "正则表达式中神奇的回溯现象",
