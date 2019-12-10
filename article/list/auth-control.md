@@ -167,6 +167,8 @@ private function checkAuth() {
 #### 5. 怎么管理
 
 前面说了，对于每个角色维护一段 json。如图：
+
+
 ![img](//cdn.521plus.com/blog/auth-1.png)
 
 
