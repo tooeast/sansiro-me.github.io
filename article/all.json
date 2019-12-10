@@ -1,5 +1,13 @@
 {
   "list": {
+    "auth-control": {
+      "title": "基于角色的后台权限控制实现",
+      "abstract": "实现一下用户-角色-权限的权限控制！",
+      "poster": "/image/permission.jpg",
+      "date": "2019-09-20 18:10:09",
+      "filename": "auth-control",
+      "author": "sansiro"
+    },
     "throttle-and-debounce": {
       "title": "重新了解防抖和节流",
       "abstract": "对于防抖和节流的认识比较混乱，这次再重新学习下！",
