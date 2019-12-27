@@ -1,3 +1,5 @@
+![own](http://cdn.521plus.com/record/qixing.jpeg)
+
 我是一名95后前端小菜鸟。
 
 > 工作在唱吧  
@@ -12,5 +14,3 @@
 **坚信**
 
 > JavaScript 是世界上最好的语言（PHP同学别打我）！
-
-![own](http://cdn.521plus.com/record/qixing.jpeg)
