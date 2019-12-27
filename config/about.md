@@ -14,5 +14,3 @@
 **坚信**
 
 > JavaScript 是世界上最好的语言（PHP同学别打我）！
-
-有任何想法可以邮箱联系我：sansiro@sansiro.me
