@@ -1,4 +1,4 @@
-![own](http://cdn.521plus.com/record/qixing.jpeg)
+![own](//cdn.521plus.com/record/qixing.jpeg)
 
 我是一名95后前端小菜鸟。
 
